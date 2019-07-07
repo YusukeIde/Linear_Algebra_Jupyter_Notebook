@@ -5,3 +5,7 @@
 下記URLのサービス「Binder」で，リポジトリ名「YusukeIde/Linear_Algebra_Jupyter_Notebook」を指定し，「launch」ボタンをクリックすることで，クラウド上での実行が可能です．
 
 https://gke.mybinder.org/
+
+実行環境への直リンクは以下のようです．
+
+https://mybinder.org/v2/gh/YusukeIde/Linear_Algebra_Jupyter_Notebook/master
