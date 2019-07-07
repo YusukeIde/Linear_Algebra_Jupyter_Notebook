@@ -1,0 +1,6 @@
+sympy
+ipywidgets
+IPython
+matplotlib
+mpl_toolkits
+datetime
